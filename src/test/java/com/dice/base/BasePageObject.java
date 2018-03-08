@@ -31,6 +31,8 @@ protected void click (By element){
 
 private WebElement find(By element) {
 	return driver.findElement(element);
+	
+	
 }
 
 }
